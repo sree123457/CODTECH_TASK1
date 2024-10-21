@@ -12,14 +12,16 @@ Blinking an LED with Arduino is one of the simplest and most common tasks for be
 It involves turning an LED on and off at regular intervals using an Arduino board, which is a microcontroller-based platform.
 
 Components Required:
-Arduino board (e.g., Arduino Uno)
-LED (Light Emitting Diode)
-Jumper wires
-Breadboard (optional)
+1.Arduino board (e.g., Arduino Uno)
+2.LED (Light Emitting Diode)
+3.Jumper wires
+4.Breadboard (optional)
 
 
 Overview:
-The basic principle of blinking an LED using Arduino is to use digital pins to control the LED's power state. Arduino has multiple digital I/O pins that can either provide a HIGH (5V) signal or a LOW (0V or ground) signal. When the digital pin is set to HIGH, current flows through the LED, making it light up. When set to LOW, the current stops, and the LED turns off.
+The basic principle of blinking an LED using Arduino is to use digital pins to control the LED's power state. 
+Arduino has multiple digital I/O pins that can either provide a HIGH (5V) signal or a LOW (0V or ground) signal.
+When the digital pin is set to HIGH, current flows through the LED, making it light up. When set to LOW, the current stops, and the LED turns off.
 
 
 Circuit Setup:
